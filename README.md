@@ -3,6 +3,7 @@
 Entered Kaggle Competition to use machine learning in predicting the march madness 2023 season results.
 
 Will plan to expand to other sports (e.g. baseball, football) to test accuracies.
+Need to do more research on important features that indicate accuracy in correct final scores.
 
 
 Misc:
